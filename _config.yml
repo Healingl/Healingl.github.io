@@ -2,7 +2,7 @@
 title: '庄宇舟的博客'
 description: '在这里发表一些自己对算法，编程还有生活的想法'
 keyword: '庄宇舟, 庄宇舟的博客, 深度学习, 机器学习, 图像处理, 自然语言处理, 医学影像'
-url: '' # your host
+url: 'https://healingl.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
